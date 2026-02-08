@@ -24,7 +24,7 @@ https://github.com/igareck/vpn-configs-for-russia
  
 Для наглядности, итоговый метод работы в Throne/nekoray выглядит примерно как-то так: https://ibb.co/HXXK0hZ
 
-Работа Discord в Throne, но без галки системного прокси или TUN:<br>
+Проксирование Discord, но без галки системного прокси или TUN:<br>
 (требуется только изменить порт на 2080)<br>
 https://github.com/hdrover/discord-drover
 
