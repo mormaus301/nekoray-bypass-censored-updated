@@ -29,6 +29,8 @@ https://github.com/igareck/vpn-configs-for-russia
 
 Проксирование Discord, но без галки системного прокси или TUN:<br>
 (требуется только изменить порт на 2080)<br>
+<img width="486" height="568" alt="image" src="https://github.com/user-attachments/assets/52cc64da-efc4-4237-a741-22a54f5c7ced" />
+
 https://github.com/hdrover/discord-drover
 
 Гайд по проксированию отдельных процессов в Throne от Aeza:<br>
